@@ -1,6 +1,6 @@
 # Commodity seasonality charts with Eikon Data API
 
-TThis module allows the user to plot a seasonality chart for a futures contract in python with Eikon Data API. [Full article is provided here](https://developers.refinitiv.com/article/yield-curve-principal-component-analysis-eikon-data-api).
+TThis module allows the user to plot a seasonality chart for a futures contract in python with Eikon Data API. [Full article is provided here](https://developers.refinitiv.com/article/commodity-seasonality-charts-eikon-data-api).
 
 #### Pre-requisites:
 
